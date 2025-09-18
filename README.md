@@ -118,6 +118,6 @@ Tạo Pull Request trên GitHub.
 Giấy phép
 Dự án được phát hành dưới MIT License.
 Liên hệ
-Nếu bạn có câu hỏi hoặc đề xuất, vui lòng mở một issue trên GitHub hoặc liên hệ qua email: [your-email@example.com].
+Nếu bạn có câu hỏi hoặc đề xuất, vui lòng mở một issue trên GitHub hoặc liên hệ qua email: khoitong0000@gmail.com].
 
 Temp Mail Pro - Nhanh chóng, an toàn, và tiện lợi để nhận email tạm thời!
